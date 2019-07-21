@@ -6,7 +6,7 @@ import Col from "react-bootstrap/Col";
 const About = () => {
 	return (
 		<Container>
-			<Row className="mt-4">
+			<Row className="mt-4 mb-5">
 				<Col className="text-center">
 					<i className="search huge icon" />
 					<h5>Buying a House?</h5>
