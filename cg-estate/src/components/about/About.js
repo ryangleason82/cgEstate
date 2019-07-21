@@ -8,6 +8,7 @@ const About = () => {
 		<Container>
 			<Row className="mt-4">
 				<Col className="text-center">
+					<i className="search huge icon" />
 					<h5>Buying a House?</h5>
 					<p>
 						<small>
@@ -19,6 +20,7 @@ const About = () => {
 				</Col>
 
 				<Col className="text-center">
+					<i className="dollar sign huge icon" />
 					<h5>Thinking of Selling Your Home?</h5>
 					<p>
 						<small>
@@ -29,6 +31,7 @@ const About = () => {
 					</p>
 				</Col>
 				<Col className="text-center">
+					<i className="home huge icon" />
 					<h5>Looking for the Perfect Rental?</h5>
 					<p>
 						<small>
