@@ -5,7 +5,6 @@ import FormControl from "react-bootstrap/FormControl";
 import Row from "react-bootstrap/Row";
 import Container from "react-bootstrap/Container";
 import Col from "react-bootstrap/Col";
-import About from "../about/About";
 
 const Landing = () => {
 	return (

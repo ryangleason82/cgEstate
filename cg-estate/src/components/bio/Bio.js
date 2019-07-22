@@ -10,7 +10,7 @@ const Bio = () => {
 			<h1 className="mt-3 ml-3">About Connie Gleason</h1>
 			<Row>
 				<Col sm={4}>
-					<Image src={require("../img/connie.jpg")} />
+					<Image src={require("../img/connie.jpg")} fluid />
 				</Col>
 				<Col sm={8}>
 					Connie Gleason grew up and has raised her children in Bucks County.
